@@ -1,0 +1,6 @@
+export_paths:
+  - content
+  - resources/blueprints
+  - resources/forms
+  - resources/views
+  - public/edutel

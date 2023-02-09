@@ -1,0 +1,44 @@
+title: Header
+data:
+  site_logo: logo.png
+  site_menu: |-
+    <ul class="nav"> 
+                              <li class="scroll-to-section"><a href="/" class="active">Home</a></li>
+                              <li class=""><a href="/about-us">About Us</a></li>
+                              <li class=""><a href="/contact-us">Contact Us</a></li>
+                              <li class="has-sub">
+                                  <a href="javascript:void(0)">Pages</a>
+                                  <ul class="sub-menu">
+                                      <li><a href="/about-us">About Us</a></li>
+                                      <li><a href="/our-services">Our Services</a></li>
+                                      <li><a href="/contact-us">Contact Us</a></li>
+                                  </ul>
+                              </li>
+                              <li class=""><a href="/testimonials">Testimonials</a></li> 
+                              <li class=""><a href="/contact-us">Contact Us</a></li> 
+                          </ul>        
+                          <a class='menu-trigger'>
+                              <span>Menu</span>
+                          </a>
+  site_name: 'Site Name'
+  header_template: |-
+    <!-- ***** Header Area Start ***** -->
+      <header class="header-area header-sticky">
+          <div class="container">
+              <div class="row">
+                  <div class="col-12">
+                      <nav class="main-nav">
+                          <!-- ***** Logo Start ***** -->
+                          <a href="/" class="logo">
+                              <img src="{{header:site_logo}}" alt="{{header:site_name}}">
+                          </a>
+                          <!-- ***** Logo End ***** -->
+                          <!-- ***** Menu Start ***** -->
+                         {{header:site_menu}}
+                          <!-- ***** Menu End ***** -->
+                      </nav>
+                  </div>
+              </div>
+          </div>
+      </header>
+      <!-- ***** Header Area End ***** -->

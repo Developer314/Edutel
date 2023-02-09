@@ -1,0 +1,9 @@
+{
+    "name": "Developer314/Edutel",
+    "extra": {
+        "statamic": {
+            "name": "Edutel",
+            "description": "Edutel starter kit"
+        }
+    }
+}
