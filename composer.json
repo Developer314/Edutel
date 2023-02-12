@@ -1,9 +1,9 @@
 {
-    "name": "Developer314/Edutel",
+    "name": "my-vendor-name/starter-kit",
     "extra": {
         "statamic": {
-            "name": "Edutel",
-            "description": "Edutel starter kit"
+            "name": "Starter Kit",
+            "description": "Starter Kit starter kit"
         }
     }
 }
