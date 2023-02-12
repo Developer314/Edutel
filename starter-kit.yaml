@@ -4,3 +4,4 @@ export_paths:
   - resources/forms
   - resources/views
   - public/edutel
+  - public/assets
