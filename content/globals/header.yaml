@@ -3,19 +3,19 @@ data:
   site_logo: logo.png
   site_menu: |-
     <ul class="nav"> 
-                              <li class="scroll-to-section"><a href="/" class="active">Home</a></li>
-                              <li class=""><a href="/about-us">About Us</a></li>
-                              <li class=""><a href="/contact-us">Contact Us</a></li>
+                              <li><a href="{{ url }}/" class="active">Home</a></li>
+                              <li class=""><a href="{{ url }}/about-us">About Us</a></li>
+                              <li class=""><a href="{{ url }}/contact-us">Contact Us</a></li>
                               <li class="has-sub">
                                   <a href="javascript:void(0)">Pages</a>
                                   <ul class="sub-menu">
-                                      <li><a href="/about-us">About Us</a></li>
-                                      <li><a href="/our-services">Our Services</a></li>
-                                      <li><a href="/contact-us">Contact Us</a></li>
+                                      <li><a href="{{ url }}/about-us">About Us</a></li>
+                                      <li><a href="{{ url }}/our-services">Our Services</a></li>
+                                      <li><a href="{{ url }}/contact-us">Contact Us</a></li>
                                   </ul>
                               </li>
-                              <li class=""><a href="/testimonials">Testimonials</a></li> 
-                              <li class=""><a href="/contact-us">Contact Us</a></li> 
+                              <li class=""><a href="{{ url }}/testimonials">Testimonials</a></li> 
+                              <li class=""><a href="{{ url }}/contact-us">Contact Us</a></li> 
                           </ul>        
                           <a class='menu-trigger'>
                               <span>Menu</span>

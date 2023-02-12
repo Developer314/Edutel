@@ -5,7 +5,7 @@ title: 'About Us'
 author: dc11e792-8eb4-4c01-aaa0-a81f48cc974e
 template: home
 updated_by: dc11e792-8eb4-4c01-aaa0-a81f48cc974e
-updated_at: 1663560697
+updated_at: 1676161747
 block_types:
   -
     page_heading: 'About Us'
