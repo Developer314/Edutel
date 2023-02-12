@@ -358,6 +358,7 @@ sections:
                     listable: hidden
                     instructions_position: above
                     visibility: visible
+                    default: 'Get the sale right now!'
                 -
                   handle: title_2
                   field:
@@ -369,6 +370,7 @@ sections:
                     listable: hidden
                     instructions_position: above
                     visibility: visible
+                    default: 'Up to 50% OFF For 1+ courses'
                 -
                   handle: description
                   field:
@@ -379,6 +381,7 @@ sections:
                     listable: hidden
                     instructions_position: above
                     visibility: visible
+                    default: "Kogi VHS freegan bicycle rights try-hard green juice probably haven't heard of them cliche la croix af chillwave."
                 -
                   handle: button_text
                   field:
@@ -390,6 +393,7 @@ sections:
                     listable: hidden
                     instructions_position: above
                     visibility: visible
+                    default: 'Get Now'
                 -
                   handle: button_link
                   field:
@@ -417,6 +421,7 @@ sections:
                     listable: hidden
                     instructions_position: above
                     visibility: visible
+                    default: _blank
                 -
                   handle: template
                   field:
@@ -461,6 +466,7 @@ sections:
                     listable: hidden
                     instructions_position: above
                     visibility: visible
+                    default: TESTIMONIALS
                 -
                   handle: title_2
                   field:
@@ -472,6 +478,7 @@ sections:
                     listable: hidden
                     instructions_position: above
                     visibility: visible
+                    default: 'What They <em>Think</em>'
                 -
                   handle: icon
                   field:
@@ -539,6 +546,7 @@ sections:
                     listable: hidden
                     instructions_position: above
                     visibility: visible
+                    default: 'About Us'
                 -
                   handle: page_sub_heading
                   field:
@@ -550,6 +558,7 @@ sections:
                     listable: hidden
                     instructions_position: above
                     visibility: visible
+                    default: 'More About Us'
                 -
                   handle: template
                   field:
@@ -602,6 +611,7 @@ sections:
                     listable: hidden
                     instructions_position: above
                     visibility: visible
+                    default: 'GET INFO'
                 -
                   handle: title_2
                   field:
@@ -613,6 +623,7 @@ sections:
                     listable: hidden
                     instructions_position: above
                     visibility: visible
+                    default: 'Read More <em>About Us</em>'
                 -
                   handle: description
                   field:
@@ -628,6 +639,10 @@ sections:
                     listable: hidden
                     instructions_position: above
                     visibility: visible
+                    default: |-
+                      You are allowed 100% to download and use our templates from TemplateMo for your commercial or business websites. You are not allowed to redistribute this template ZIP file on any other website without a permission from us.
+
+                      There are some unethical people on this planet earth who copied our templates so easily without any permission from us and then reposted on their websites. Their Karma will hit them really hard. Yeah, that is right.
                 -
                   handle: strategy_1_icon
                   field:
@@ -654,6 +669,7 @@ sections:
                     listable: hidden
                     instructions_position: above
                     visibility: visible
+                    default: 'Best Strategy'
                 -
                   handle: strategy_1_data
                   field:
@@ -669,6 +685,7 @@ sections:
                     listable: hidden
                     instructions_position: above
                     visibility: visible
+                    default: 'Food & truck tumeric taxidermy hoodie chiasore bitters retroed gentrify street portland.'
                 -
                   handle: strategy_2_icon
                   field:
@@ -695,6 +712,7 @@ sections:
                     listable: hidden
                     instructions_position: above
                     visibility: visible
+                    default: 'Creative Ideas'
                 -
                   handle: strategy_2_data
                   field:
@@ -710,6 +728,7 @@ sections:
                     listable: hidden
                     instructions_position: above
                     visibility: visible
+                    default: 'Food & truck tumeric taxidermy hoodie chiasore bitters retroed gentrify street portland.'
                 -
                   handle: template
                   field:
@@ -773,6 +792,7 @@ sections:
                     listable: hidden
                     instructions_position: above
                     visibility: visible
+                    default: 'OUR TEAM'
                 -
                   handle: title_2
                   field:
@@ -784,6 +804,7 @@ sections:
                     listable: hidden
                     instructions_position: above
                     visibility: visible
+                    default: 'Our Team <em>Members</em>'
                 -
                   handle: template
                   field:
@@ -872,6 +893,7 @@ sections:
                     listable: hidden
                     instructions_position: above
                     visibility: visible
+                    default: 'Our Office'
                 -
                   handle: title_2
                   field:
@@ -883,6 +905,7 @@ sections:
                     listable: hidden
                     instructions_position: above
                     visibility: visible
+                    default: 'Get Closer To EduWell'
                 -
                   handle: description
                   field:
@@ -898,6 +921,18 @@ sections:
                     listable: hidden
                     instructions_position: above
                     visibility: visible
+                    default: |-
+                      <p>Trust fund nocore broklyn humblebrag mustache
+                                    pork kitsch, bicycle rights hexagon schlitz keytar palo is
+                                    santo drinking vinegar fam ramps. <br><br>Four dollar toast and
+                                    edison bulb vinyl, listicle hashtag pug scenester typewrit
+                                    er yuccie street artboard or whatever to fill place.</p>
+                                  <ul>
+                                    <li>- Selfies you probably haven't heard of them.</li>
+                                    <li>- Tousled cold-pressed chicharrones yuccie.</li>
+                                    <li>- Pabst iPhone chartreuse shabby chic tumeric.</li>
+                                    <li>- Scenester normcore mumblecore snackwave.</li>
+                                  </ul>
                 -
                   handle: video_thumbnail
                   field:
@@ -933,6 +968,7 @@ sections:
                     listable: hidden
                     instructions_position: above
                     visibility: visible
+                    default: 'Read More'
                 -
                   handle: button_target
                   field:
@@ -963,6 +999,7 @@ sections:
                     listable: hidden
                     instructions_position: above
                     visibility: visible
+                    default: 'https://www.youtube.com/channel/UCp7T2WyMWuKIEEQyr6EqLuw'
                 -
                   handle: template
                   field:
@@ -973,6 +1010,37 @@ sections:
                     listable: hidden
                     instructions_position: above
                     visibility: visible
+                    default: |-
+                      <section class="contact-us our-office">
+                          <div class="container">
+                            <div class="row">
+                              <div class="col-lg-4">
+                                <div class="left-info">
+                                  <div class="section-heading">
+                                    <h6>{{title_1}}</h6>
+                                    <h4>{{title_2}}</h4>
+                                  </div>
+                                  {{description}}
+                                  <div class="main-button-gradient">
+                                    <a href="{{button_link}}" target="{{button_target}}">{{button_label}}</a>
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="col-lg-8">
+                                <div id="video">
+                                  <div class="thumb">
+                                    <img src="{{video_thumbnail}}" alt="{{title_2}}">
+                                    <div class="play-button">
+                                      <a rel="nofollow" href="{{video_url}}" target="_blank"><i class="fa fa-play"></i></a>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              
+                             
+                            </div>
+                          </div>
+                        </section>
             more_info_about_us:
               display: 'More Info About Us'
               fields:
