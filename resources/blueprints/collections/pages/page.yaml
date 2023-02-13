@@ -1172,9 +1172,7 @@ sections:
                   field:
                     antlers: true
                     default: |-
-                      {{block_types}}
-                      {{template}}
-                      {{/block_types}}
+                      
 
 
                       <section class="featured-product">
